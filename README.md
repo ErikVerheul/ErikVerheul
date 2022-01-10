@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Docker to make deployments more easy
 - 🤔 I’m looking for help with testing the application
 - 💬 Ask me about multiple teams working in an agile setting 
-- 📫 How to reach me: feel free to mail me to tech@verheulconsultants.nl
+- 📫 How to reach me: feel free to mail me @ tech@verheulconsultants.nl
